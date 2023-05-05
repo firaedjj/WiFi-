@@ -18,3 +18,4 @@ for i in r:
     print("正在生成密码......")
 dic.close()
 print("密码本已生成")
+#firaedjj
